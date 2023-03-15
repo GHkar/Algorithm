@@ -3,7 +3,7 @@
 
 * 백준   
 : 알고리즘 문제 사이트   
-ID : dofl0119   
+**ID** dofl0119   
 https://www.acmicpc.net/   
 
 * 이것이 코딩테스트다 with 파이썬   
