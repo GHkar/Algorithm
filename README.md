@@ -13,6 +13,6 @@ https://www.acmicpc.net/
 
 * 이것이 코딩테스트다 with 파이썬   
 :알고리즘 문제 공부 책   
-나동빈 지음 | 2020년 09월 28일 출간 | 한빛미디어 | ISBN 1162243074   
+**Info** 나동빈 지음 | 2020년 09월 28일 출간 | 한빛미디어 | ISBN 1162243074   
 **Path** this is a coding test
 
