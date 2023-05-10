@@ -2,6 +2,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
+// 교점에 별 만들기
 public class Solution {
     private static class Point {
         public final long x, y;
