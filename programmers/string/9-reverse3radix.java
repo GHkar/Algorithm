@@ -1,6 +1,5 @@
 // 3진법 뒤집기
 public class Solution {
-    // 문자열 압축 후 압축된 문자열의 길이 반환
 
     public int solution(int n){
         // 정수를 3진법으로 변환
