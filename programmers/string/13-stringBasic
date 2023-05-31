@@ -1,0 +1,16 @@
+// 문자열 다루기 기본
+public class Solution {
+    public boolean solution(String s){
+        return s.matches("[0-9]{4}|[0-9]{6}");
+    }
+
+    // 실행
+    public static void main(String[] args)
+    {
+        Solution answer = new Solution();
+        String input = "a234";
+        boolean result = answer.solution(input);
+
+        System.out.print(result);
+    }
+}
