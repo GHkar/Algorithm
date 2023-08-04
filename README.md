@@ -21,11 +21,12 @@ https://www.acmicpc.net/
 * 프로그래머스   
 : 알고리즘 문제 사이트   
 https://programmers.co.kr/   
-**ID** dofl0119@gmail.com     
-**Path** programmers (1-49번까지)   
+**ID** dofl0119@gmail.com
+** **Info** 김현이 지음 | 2023년 02월 24일 출간 | 길벗 | ISBN 9791140702916       
+   **Path** programmers (1-49번까지)   
     >문제풀이   
     >: 프로그래머스 코딩 테스트 문제 풀이 전략 : 자바 편   
-    >**Info** 김현이 지음 | 2023년 02월 24일 출간 | 길벗 | ISBN 9791140702916   
+    > 
 
 **Path** programmers (48-현재 진행 중)   
     >문제풀이   
