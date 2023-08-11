@@ -1,4 +1,4 @@
-# 힙 트리 / 디스크 컨트롤러
+#  디스크 컨트롤러 - 힙 트리
 
 from heapq import heappush as push, heappop as pop
 
