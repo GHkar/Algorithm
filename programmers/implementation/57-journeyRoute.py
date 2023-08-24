@@ -10,6 +10,7 @@ def dfs(graph, now, route, max_num):
 
     for i, destination in enumerate(graph[now]):    
         graph[now].pop(i)
+        # * route는 route의 요소를 unpacking하는 것으로 만약 route 안에 [a,b,c]가 있다면 각 요소를 하나의 객체로 꺼내줌
         dfs(graph, destination, [*route, destination], max_num)
         graph[now].insert(i, destination)
 
